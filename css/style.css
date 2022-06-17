@@ -1,4 +1,4 @@
-.column right-column {
+.column {
     background-color: rgb(191, 191, 245);
 }
 
@@ -22,15 +22,12 @@
     line-height: 20px;
     font-size: 18px;
 }
+
 .form textarea {
     min-height: 60px;
     height: 100px;
     max-height: 240px;
     resize: vertical;
-}
-
-.form :focus-visible {
-    outline: 2px dotted red;
 }
 
 .btn {
@@ -47,5 +44,5 @@
 
 .section-description {
     font-size: 18px;
-    color: rgb(54, 220, 232);
+    color: rgb(45, 187, 198);
 }
